@@ -1,0 +1,5 @@
+/* eslint-disable no-console */
+export function handleException(status) {
+  // ..
+  console.log(status);
+}
